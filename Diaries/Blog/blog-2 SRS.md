@@ -1,0 +1,3 @@
+<!-- about SRS or, Software Requirements Specification Document -->
+
+I first came across the word "SRS" when Md Kamruzzaman Shishir (IT43) mentioned it alongside "SOP" (standard operating procedure) for one of the major projects regarding UITS. We wanted to make a Forum for out university. A Forum, unlike the one they call so but is essentially downgraded to just another friends' group on Facebook, but something more like https://linustechtips.com/ . A major project indeed. As it would shift the general outlook on our university, which promotes its "IT-based"-ness quite proudly.
