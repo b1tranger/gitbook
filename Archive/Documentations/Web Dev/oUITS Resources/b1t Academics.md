@@ -17,3 +17,8 @@ It was Md. Azhar Uddin Abeer - one of the more capable senior students that I kn
 Instead, he let me know of "a better" option that he knew of and took me to Netlify. I made up my mind to explore GitHub later and asked him to show me the process of "making it online". Finally, after connecting with my GitHub account he named the project: "ouits-res"; which in turn created:
 
 https://ouits-res.netlify.app/ - the most memorable URL to me for a long time since then.
+
+
+# Note: 
+
+the title of the project has been changed to "b1t Academics" and link to "https://b1tacad.netlify.app/" since 29.06.25. Formerly known as "oUITS Resources"
