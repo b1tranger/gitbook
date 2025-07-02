@@ -12,9 +12,9 @@ The simple idea that you can make websites using just Anchor Tags and maybe add 
 
 I went to the library that day to figure out GitHub's then-yet-to-be-discovered power to "make your websites online". Just then, a guy, unsociable to most, sat beside me and stared at my face. He asked me to guess his name. I couldn't.
 
-It was Md. Azhar Uddin Abeer - one of the more capable senior students that I know of. I only met him once and forgot about him just like that. Being a proud unsocial guy myself, I ignored that fact and took notice of the Laptop he brought along instead. I thought I could ask him about GitHub as I saw him working on his projects. And I did ask him about it. But he wasn't sure whether it could make my proud project "go online".
+It was Md. Azhar Uddin Abeer - one of the more capable senior students that I know of. I only met him once and forgot about him just like that. Being a proud unsocial guy myself, I ignored that fact and took notice of the Laptop he brought along instead. I thought I could ask him about GitHub as I saw him working on his projects. And I did ask him about it..
 
-Instead, he let me know of "a better" option that he knew of and took me to Netlify. I made up my mind to explore GitHub later and asked him to show me the process of "making it online". Finally, after connecting with my GitHub account he named the project: "ouits-res"; which in turn created:
+He let me know of "a better" option that he knew of and took me to Netlify. I made up my mind to explore GitHub later and asked him to show me the process of "making it online". Finally, after connecting with my GitHub account he named the project: "ouits-res"; which in turn created:
 
 https://ouits-res.netlify.app/ - the most memorable URL to me for a long time since then.
 
