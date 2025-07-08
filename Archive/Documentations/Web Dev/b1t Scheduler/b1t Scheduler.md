@@ -6,6 +6,9 @@ In the first semester of UITS, I used to manage tasks using Google Keep. It was 
 
 But Google Keep had its limitations.
 ​
+---
+Repository: https://github.com/b1tranger/b1t-Sched
+
 # Note: 
 
 the title of the project has been changed to "b1t Scheduler" and link to "https://b1tsched.netlify.app/" since 29.06.25. Formerly known as "oUITS Scheduler"
